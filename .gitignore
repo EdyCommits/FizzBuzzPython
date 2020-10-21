@@ -149,5 +149,6 @@ dmypy.json
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+*/fizz_buzz.pyc
 
 # End of https://www.toptal.com/developers/gitignore/api/python,vscode
